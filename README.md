@@ -234,6 +234,8 @@ This library concretizes previous work by many different authors and would not h
 
 We also want to thank @heejkoo for the very helpful overview of papers, code and resources on diffusion models, available [here](https://github.com/heejkoo/Awesome-Diffusion-Models) as well as @crowsonkb and @rromb for useful discussions and insights.
 
+A simple streamlit [demonstration](https://text-to-image-stablediffusion.streamlit.app/)
+
 ## Citation
 
 ```bibtex
